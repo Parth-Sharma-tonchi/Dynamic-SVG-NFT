@@ -1,3 +1,12 @@
+It is a well-written and tested NFT contract in solidity.
+@Author Parth Sharma
+@notice You can see these NFTs on this 0x5D74A1e8F2154ab57a31C1449Dbd4BCf2a6dA693 address on Metamask.
+
+Contract named: BasicNft is a Dog NFT in which a user can mint an NFT that has an adorable pug.
+Contract named: MoodNft is an NFT that can flip mood by the user and minted also. It has two moods happy or sad.
+
+Following are the Details of the contracts these details are internal.
+
 happyMoodSVG:
 
 data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjQwMCIgIGhlaWdodD0iNDAwIiB4bWxu
